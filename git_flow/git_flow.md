@@ -235,3 +235,5 @@ gitflow
 [nvie/gitflow](https://github.com/nvie/gitflow)
 
 [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
+
+[git flow](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/git-flow)
