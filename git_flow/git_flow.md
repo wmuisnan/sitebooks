@@ -224,7 +224,9 @@ Finally, remove the temporary branch:
 	$ git branch -d hotfix-1.2.1
 	Deleted branch hotfix-1.2.1 (was abbe5d6).
 	
-	
+
+## 自动补全
+https://github.com/bobthecow/git-flow-completion
 
 ## 相关工具
 
