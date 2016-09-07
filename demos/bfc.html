@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>bfc</title>
+  <style type="text/css">
+.container {
+    background-color: red;
+    overflow: hidden; /* creates a block formatting context */
+}
+p {
+    background-color: lightgreen;
+    margin: 10px 0;
+}
+
+  </style>
+</head>
+<body>
+<div class="container">
+    <p>Sibling 1</p>
+    <p>Sibling 2</p>
+</div>
+
+</body>
+</html>
